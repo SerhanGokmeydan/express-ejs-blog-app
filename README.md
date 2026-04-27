@@ -1,4 +1,4 @@
-# Online Blog App
+# express-ejs-blog-app
 
 An online blog app that users can write blog and follow others
 
